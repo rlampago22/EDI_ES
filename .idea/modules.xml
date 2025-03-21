@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TAD_PontoCartesiano.iml" filepath="$PROJECT_DIR$/TAD_PontoCartesiano.iml" />
+      <module fileurl="file://$PROJECT_DIR$/version.iml" filepath="$PROJECT_DIR$/version.iml" />
     </modules>
   </component>
 </project>
