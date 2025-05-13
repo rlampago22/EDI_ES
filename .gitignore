@@ -2,8 +2,8 @@
 *
 
 # Exceto a pasta src
+!.gitignore
 !src/
-!src/**
 
 # Opcional: ignora arquivos de build e do IntelliJ
 .idea/
