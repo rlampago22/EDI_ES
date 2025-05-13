@@ -1,11 +1,11 @@
 # Ignora tudo
 *
 
-# Exceto a pasta src
-!.gitignore
+# Exceto o que está dentro de src/
 !src/
+!src/**
 
-# Opcional: ignora arquivos de build e do IntelliJ
+# Mas ainda ignora arquivos compilados e IDEs
 .idea/
-out/
 *.iml
+out/
